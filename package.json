@@ -1,0 +1,27 @@
+{
+  "name": "sharky",
+  "version": "0.0.0",
+  "description": "Promise based Emitter for nodejs",
+  "main": "sharky.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codechito/sharky.git"
+  },
+  "keywords": [
+    "emitter",
+    "event",
+    "sharky"
+  ],
+  "author": "Chito Cascante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codechito/sharky/issues"
+  },
+  "homepage": "https://github.com/codechito/sharky#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
